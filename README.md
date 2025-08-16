@@ -1,5 +1,5 @@
-# DQN for LunarLander v2
- Implementation of reinforcement learning algorithms for the OpenAI Gym environment LunarLander-v2 
+# DQN for LunarLander v3
+ Implementation of reinforcement learning algorithms for the OpenAI Gym environment LunarLander-v3 
 
 ## Demo clips
 ![demo](https://github.com/yuchen071/DQN-for-LunarLander-v2/blob/main/.readme_docs/demo.gif)
